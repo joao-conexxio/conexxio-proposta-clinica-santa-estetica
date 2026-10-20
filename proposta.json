@@ -1,0 +1,231 @@
+{
+  "slug": "clinica-santa-estetica",
+  "negocio": {
+    "nome": "Clínica Santa Estética",
+    "logo": "brand/logo-roxo.png",
+    "whatsapp": "5561985398371",
+    "unidades": [
+      {
+        "bairro": "Conjunto Nacional de Taguatinga",
+        "endereco": "St. Central, Área Especial 02 · Taguatinga Centro, Brasília-DF · 72010-020",
+        "telefone": "(61) 98539-8371 · WhatsApp",
+        "horario": "Atendimento com hora marcada"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#822294",
+    "brand2": "#4A1356",
+    "ink": "#2B1431",
+    "bg": "#FBF6F8",
+    "pulse": "#EBA3C8",
+    "radius": "16px",
+    "registro": "editorial",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Quicksand",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          { "texto": "Tratamentos", "href": "#tratamentos" },
+          { "texto": "Como funciona", "href": "#como-funciona" },
+          { "texto": "Dúvidas", "href": "#faq" },
+          { "texto": "Onde fica", "href": "#unidades" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Taguatinga · DF",
+        "h1": "Lábios, pele e contorno, no ponto certo",
+        "lead": "Há 14 anos a Santa Estética planeja preenchimento labial, toxina botulínica, fios e microagulhamento a partir do desenho de cada rosto. A ideia é você parecer descansada, não diferente.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "selo": "Santa Estética · harmonização facial · ",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Harmonização facial",
+          "Preenchimento labial",
+          "Toxina botulínica",
+          "Fios de sustentação",
+          "Microagulhamento",
+          "Depilação a laser",
+          "Estética íntima"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "gigante",
+      "data": {
+        "titulo": "A clínica em números",
+        "itens": [
+          { "valor": "14", "rotulo": "anos de harmonização e estética facial", "contar": 14 },
+          { "valor": "5,0", "rotulo": "nota das pacientes no Google" },
+          { "valor": "42 mil", "rotulo": "pessoas acompanham a clínica no Instagram" }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "O critério",
+        "citacao": "Resultado bom é o que ninguém consegue apontar.",
+        "texto": [
+          "Cada rosto já tem um desenho, e o procedimento trabalha a favor dele. Volume nos lábios na medida da sua boca, toxina só nos pontos que marcam a expressão, fio onde a pele pede sustentação.",
+          "A Santa é uma clínica conduzida por mulheres, no centro de Taguatinga. A avaliação vem antes de qualquer aplicação, e nela também se fala do que não vale a pena mexer."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Rosto, pele e corpo no mesmo endereço. A indicação de cada um sai da avaliação.",
+        "itens": [
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Um plano para o rosto inteiro, não uma aplicação isolada. Contorno, proporção e simetria são analisados juntos, e as técnicas entram na ordem que faz sentido para os seus traços."
+          },
+          {
+            "nome": "Preenchimento labial",
+            "descricao": "Contorno, hidratação e volume dosados pelo formato da sua boca. Dá para pedir algo discreto ou mais marcado: o limite é o que combina com o resto do rosto."
+          },
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza as linhas da testa, entre as sobrancelhas e ao redor dos olhos. Aplicada em pontos e doses que deixam o rosto descansado e ainda expressivo."
+          },
+          {
+            "nome": "Fios de sustentação",
+            "descricao": "Fios posicionados sob a pele para devolver firmeza a regiões que cederam com o tempo, sem cirurgia. Indicação, quantidade e região são definidas na avaliação."
+          },
+          {
+            "nome": "Microagulhamento",
+            "descricao": "Microperfurações controladas que estimulam a pele a produzir colágeno. Trabalha textura, poros e marcas de acne, em sessões espaçadas."
+          },
+          {
+            "nome": "Depilação a laser",
+            "descricao": "Redução dos pelos por sessões, no rosto e no corpo. O número de sessões varia conforme a região e o tipo de pelo."
+          },
+          {
+            "nome": "Estética íntima · ninfoplastia",
+            "descricao": "Atendimento reservado, com tempo para tirar todas as dúvidas. Técnica, preparo e recuperação são explicados na avaliação, antes de qualquer decisão."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao retorno, sabendo o que esperar de cada etapa.",
+        "itens": [
+          {
+            "titulo": "Mensagem pelo WhatsApp",
+            "texto": "Você conta o que incomoda e marca a avaliação por ali mesmo."
+          },
+          {
+            "titulo": "Avaliação na clínica",
+            "texto": "Análise do rosto, conversa sobre o que você espera e sobre o que não precisa ser feito."
+          },
+          {
+            "titulo": "Plano e aplicação",
+            "texto": "Você sai sabendo o que vai ser feito, em que ordem e quando o resultado começa a aparecer."
+          },
+          {
+            "titulo": "Retorno",
+            "texto": "Revisão depois que o resultado assenta, para conferir e ajustar se for preciso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "lista",
+      "data": {
+        "titulo": "Quem atende",
+        "itens": [
+          {
+            "nome": "Karen Pollyanna",
+            "especialidade": "Harmonização facial · à frente dos cursos da clínica"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "Vou ficar com cara de procedimento?",
+            "r": "Esse é o critério da indicação. Quantidade e ponto de aplicação são escolhidos para preservar os seus traços: a intenção é que reparem que você está bem, não no que foi feito."
+          },
+          {
+            "p": "Dói?",
+            "r": "Na maior parte dos procedimentos a região é anestesiada antes, e o incômodo costuma ser leve e rápido. O que esperar no seu caso é explicado na avaliação."
+          },
+          {
+            "p": "Quanto tempo dura o preenchimento labial?",
+            "r": "Depende do produto e do organismo de cada pessoa; em geral, entre seis meses e um ano. A previsão para o seu caso, e quando faz sentido voltar, sai na avaliação."
+          },
+          {
+            "p": "Posso voltar à rotina no mesmo dia?",
+            "r": "Na maioria dos procedimentos faciais, sim. Inchaço ou pequenos roxos nos primeiros dias são esperados e passam. As orientações de cuidado são passadas no dia."
+          },
+          {
+            "p": "Onde fica a clínica?",
+            "r": "No Conjunto Nacional de Taguatinga, Setor Central, Área Especial 02, em Taguatinga Centro. O atendimento é com hora marcada pelo WhatsApp."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde fica"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Conte pelo WhatsApp o que você gostaria de mudar. A avaliação é marcada por ali, no horário que for melhor para você.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          { "texto": "Instagram", "href": "https://www.instagram.com/clinicasantaestetica/" },
+          { "texto": "YouTube", "href": "https://youtube.com/@Clinicasantaestetica" },
+          { "texto": "TikTok", "href": "https://www.tiktok.com/@clinsantaestetica" },
+          { "texto": "WhatsApp", "href": "https://wa.me/5561985398371" }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. O conteúdo desta página é informativo e não substitui consulta."
+      }
+    }
+  ]
+}
